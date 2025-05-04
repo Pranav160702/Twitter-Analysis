@@ -88,5 +88,3 @@ git clone https://github.com/your-username/twitter-sentiment-analysis.git
 
 ---
 
-🔗 **GitHub Repo**: [Your GitHub Link]  
-📧 **Contact**: [Your Email]  
