@@ -63,28 +63,7 @@ python manage.py runserver
 
 ---
 
-## **💡 Contributing**  
-Want to improve this project? Follow these steps!  
 
-### **Step 1: Fork or Clone the Repository**  
-🔹 **Option 1**: 🍴 Fork this repo!  
-🔹 **Option 2**: 👯 Clone to your local machine:  
-```bash
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
-```
-### **Step 2: Implement Your Changes** 🔨  
-### **Step 3: Submit a Pull Request** 🔃  
-
-🎉 We appreciate all contributions! Let’s make this project even better together.  
-
----
-
-## **🚀 Future Enhancements**  
-🔹 Integrate **BERT/RoBERTa** for advanced sentiment analysis  
-🔹 Add a **real-time dashboard** with interactive charts  
-🔹 Expand topic analysis to **sports, politics, & global events**  
-
-📢 **Let’s decode Twitter trends with AI!** 🌍🔥  
 
 ---
 
